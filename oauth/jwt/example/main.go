@@ -16,7 +16,7 @@ import (
 	"net/http"
 	"strings"
 
-	"code.google.com/p/goauth2/oauth/jwt"
+	"github.com/jfyne/goauth2/oauth/jwt"
 )
 
 const scope = "https://www.googleapis.com/auth/devstorage.read_only"
